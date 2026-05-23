@@ -1,8 +1,7 @@
 """
 Financial Risk Analysis for Loan Approval
 ==========================================
-Author: Karishma Patil
-Role: ML Engineer | 47Billion, Bengaluru
+
 
 This module implements the end-to-end ML pipeline for loan approval prediction.
 It includes preprocessing, dual-model training (classifier + regressor),
